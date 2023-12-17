@@ -1,6 +1,7 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=1-nabe&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=1-nabe&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=1-nabe&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+Hide total contributions: [![GitHub Streak](https://streak-stats.demolab.com?user=1-nabe&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+Normal in light mode: [![GitHub Streak](https://streak-stats.demolab.com?user=1-nabe&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
